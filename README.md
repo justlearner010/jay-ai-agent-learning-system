@@ -71,4 +71,4 @@ python -m automation.validate_workspace
 
 - [first-CLI 文本工具](https://github.com/justlearner010/jay-first-cli-text-tool)
 - [AI 工程学习笔记](https://github.com/justlearner010/jay-ai-engineering-notes)
-- 历史路线归档链接将在旧仓库完成改名后补充。
+- [历史路线归档](https://github.com/justlearner010/jay-ai-agent-roadmap-archive)
