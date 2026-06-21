@@ -1,4 +1,15 @@
-# Jay AI Agent Learning System
+# AI Agent Learning System（已归档）
+
+> 本仓库已于 2026-06-21 停止维护。原有路线、任务库、模板和自动化保留用于历史查阅。
+
+## 当前入口
+
+- [CS & AI Learning Lab](https://github.com/justlearner010/Jay-ai-learning-lab)
+- [归档快照](https://github.com/justlearner010/jay-ai-agent-roadmap-archive/tree/main/learning-system-archive)
+
+---
+
+## 历史说明
 
 > A reusable, question-driven framework for turning AI Agent learning into verifiable project assets. This repository also contains Jay's active workspace as a concrete example.
 
